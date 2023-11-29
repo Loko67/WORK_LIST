@@ -1,0 +1,261 @@
+[
+{
+    "workListId" : "000000000594229",
+    "workListUUID" : "0f526f47-4ca3-11ee-ab61-0cc47ad8b645",
+    "dtStart" : "2023-09-06T0:00:00",
+    "dtEnd" : "2023-09-12T0:00:00",
+    "dtUpdated" : "2023-09-12T00:00:00",
+    "sellers" : [ 
+        {
+            "name" : "Касаткин Роман Александрович",
+            "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645"
+        }
+    ],
+    "clients" : [ 
+        {
+            "clientId" : "0f526f45-4ca3-11ee-ab61-0cc47ad8b645",
+            "name" : "Николай",
+            "contacts" : [ 
+                {
+                    "contactType" : "phone",
+                    "contact" : "*******7738",
+                    "contactPersonName" : "Николай",
+                    "contactPersonId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645"
+                }
+            ],
+            "comments" : [ 
+                {
+                    "dtCreated" : "2023-09-06T16:53:43",
+                    "dtUpdated" : "2023-09-06T16:53:43",
+                    "comment" : "Приехал узнать по выкупу сколько дадим за его поло, оценка 950, сказал подумает, так как думает брать авто другой у друга",
+                    "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+                    "id" : "0f526f46-4ca3-11ee-ab61-0cc47ad8b645"
+                }
+            ],
+            "gender" : "male",
+            "IsMobileAppClient" : false
+        }
+    ],
+    "comments" : [ 
+        {
+            "dtCreated" : "2023-09-06T16:53:43",
+            "dtUpdated" : "2023-09-06T16:53:43",
+            "comment" : "Приехал узнать по выкупу сколько дадим за его поло, оценка 950, сказал подумает, так как думает брать авто другой у друга",
+            "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+            "id" : "0f526f46-4ca3-11ee-ab61-0cc47ad8b645"
+        }
+    ],
+    "events" : [ 
+        {
+            "id" : "72e3b8c6-5143-11ee-ab61-0cc47ad8b645",
+            "dtStart" : "2023-09-12T10:00:00",
+            "dtEnd" : "2023-09-12T11:00:00",
+            "dtCreated" : "2023-09-12T11:11:25",
+            "eventTypeName" : "Звонок",
+            "eventTypeId" : "4dbfae0a-dc6e-4397-bf31-7c136e44c382",
+            "managerName" : "Касаткин Роман Александрович",
+            "managerId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+            "comments" : [ 
+                {
+                    "dtCreated" : "2023-09-12T11:11:25",
+                    "dtUpdated" : "2023-09-12T11:11:25",
+                    "comment" : "от выкупа отказался так как сделка с дургом сорвалась",
+                    "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+                    "employeeFullName" : "Касаткин Роман Александрович"
+                }
+            ],
+            "clients" : [ 
+                {
+                    "clientId" : "0f526f45-4ca3-11ee-ab61-0cc47ad8b645",
+                    "name" : "Николай",
+                    "contacts" : [ 
+                        {
+                            "contactType" : "phone",
+                            "contact" : "*******7738",
+                            "contactPersonName" : "Николай",
+                            "contactPersonId" : "0f526f45-4ca3-11ee-ab61-0cc47ad8b645"
+                        }
+                    ],
+                    "contactInfo" : ""
+                }
+            ],
+            "eventTitle" : "Событие-траффик РМ0000006671 от 12.09.2023 11:11:25"
+        }
+    ],
+    "testDrives" : [],
+    "usedCase" : false,
+    "tradeIn" : false,
+    "juridicalPerson" : false,
+    "sale" : {
+        "isDone" : false
+    }
+},
+{
+    "workListId" : "000000000591185",
+    "workListUUID" : "6657c5bb-4579-11ee-ab61-0cc47ad8b645",
+    "dtStart" : "2023-08-27T0:00:00",
+    "dtEnd" : "2023-09-12T0:00:00",
+    "dtUpdated" : "2023-09-12T00:00:00",
+    "sellers" : [ 
+        {
+            "name" : "Касаткин Роман Александрович",
+            "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645"
+        }
+    ],
+    "clients" : [ 
+        {
+            "clientId" : "a707046f-2fff-11ed-ab55-0cc47ad8b645",
+            "name" : "Алексей",
+            "contacts" : [ 
+                {
+                    "contactType" : "phone",
+                    "contact" : "*******0688",
+                    "contactPersonName" : "Алексей",
+                    "contactPersonId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645"
+                }
+            ],
+            "comments" : [ 
+                {
+                    "dtCreated" : "2023-08-27T12:00:00",
+                    "dtUpdated" : "2023-08-27T12:00:00",
+                    "comment" : "приходил хоетл посмореть баян, потыкать его толщиком, пригласить сегодгня или завтра, вчера авто не было на месте, про коробку знает",
+                    "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+                    "id" : "6657c5ba-4579-11ee-ab61-0cc47ad8b645"
+                }
+            ],
+            "gender" : "male",
+            "IsMobileAppClient" : false
+        }
+    ],
+    "comments" : [ 
+        {
+            "dtCreated" : "2023-08-27T12:00:00",
+            "dtUpdated" : "2023-08-27T12:00:00",
+            "comment" : "приходил хоетл посмореть баян, потыкать его толщиком, пригласить сегодгня или завтра, вчера авто не было на месте, про коробку знает",
+            "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+            "id" : "6657c5ba-4579-11ee-ab61-0cc47ad8b645"
+        }
+    ],
+    "events" : [ 
+        {
+            "id" : "72e3b8c3-5143-11ee-ab61-0cc47ad8b645",
+            "dtStart" : "2023-09-12T10:00:00",
+            "dtEnd" : "2023-09-12T11:00:00",
+            "dtCreated" : "2023-09-12T11:10:19",
+            "eventTypeName" : "Звонок",
+            "eventTypeId" : "4dbfae0a-dc6e-4397-bf31-7c136e44c382",
+            "managerName" : "Касаткин Роман Александрович",
+            "managerId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+            "comments" : [ 
+                {
+                    "dtCreated" : "2023-09-12T11:10:19",
+                    "dtUpdated" : "2023-09-12T11:10:19",
+                    "comment" : "авто уже продан",
+                    "employeeId" : "3c8b0b91-6976-11ed-ab56-0cc47ad8b645",
+                    "employeeFullName" : "Касаткин Роман Александрович"
+                }
+            ],
+            "clients" : [ 
+                {
+                    "clientId" : "a707046f-2fff-11ed-ab55-0cc47ad8b645",
+                    "name" : "Алексей",
+                    "contacts" : [ 
+                        {
+                            "contactType" : "phone",
+                            "contact" : "*******0688",
+                            "contactPersonName" : "Алексей",
+                            "contactPersonId" : "a707046f-2fff-11ed-ab55-0cc47ad8b645"
+                        }
+                    ],
+                    "contactInfo" : ""
+                }
+            ],
+            "eventTitle" : "Событие-траффик РМ0000006668 от 12.09.2023 11:10:19"
+        }
+    ],
+    "testDrives" : [],
+    "usedCase" : false,
+    "tradeIn" : false,
+    "juridicalPerson" : false,
+    "sale" : {
+        "isDone" : false
+    }
+},
+{
+    "workListId" : "000000000593355",
+    "workListUUID" : "5ee793ed-4ae6-11ee-ab61-0cc47ad8b645",
+    "dtStart" : "2023-09-04T0:00:00",
+    "dtEnd" : "2023-09-04T0:00:00",
+    "dtUpdated" : "2023-09-04T00:00:00",
+    "sellers" : [ 
+        {
+            "name" : "Васильев Сергей Валерьевич",
+            "employeeId" : "696885b6-6b0f-11ed-ab56-0cc47ad8b645"
+        }
+    ],
+    "clients" : [ 
+        {
+            "clientId" : "5ee793eb-4ae6-11ee-ab61-0cc47ad8b645",
+            "name" : "Ксения",
+            "contacts" : [],
+            "comments" : [ 
+                {
+                    "dtCreated" : "2023-09-04T8:47:31",
+                    "dtUpdated" : "2023-09-04T8:47:31",
+                    "comment" : "Отказ от ПК, осмотрелись",
+                    "employeeId" : "696885b6-6b0f-11ed-ab56-0cc47ad8b645",
+                    "id" : "5ee793ec-4ae6-11ee-ab61-0cc47ad8b645"
+                }
+            ],
+            "gender" : "female",
+            "IsMobileAppClient" : false
+        }
+    ],
+    "comments" : [ 
+        {
+            "dtCreated" : "2023-09-04T8:47:31",
+            "dtUpdated" : "2023-09-04T8:47:31",
+            "comment" : "Отказ от ПК, осмотрелись",
+            "employeeId" : "696885b6-6b0f-11ed-ab56-0cc47ad8b645",
+            "id" : "5ee793ec-4ae6-11ee-ab61-0cc47ad8b645"
+        }
+    ],
+    "events" : [ 
+        {
+            "id" : "5ee793ec-4ae6-11ee-ab61-0cc47ad8b645",
+            "dtStart" : "2023-09-04T13:03:00",
+            "dtEnd" : "2023-09-04T13:10:00",
+            "dtCreated" : "2023-09-04T8:47:31",
+            "eventTypeName" : "Встреча",
+            "eventTypeId" : "aa3bf837-a33f-4a66-8db3-7ef8033263b3",
+            "managerName" : "Васильев Сергей Валерьевич",
+            "managerId" : "696885b6-6b0f-11ed-ab56-0cc47ad8b645",
+            "comments" : [ 
+                {
+                    "dtCreated" : "2023-09-04T8:47:31",
+                    "dtUpdated" : "2023-09-04T8:47:31",
+                    "comment" : "Отказ от ПК, осмотрелись",
+                    "employeeId" : "696885b6-6b0f-11ed-ab56-0cc47ad8b645",
+                    "employeeFullName" : "Васильев Сергей Валерьевич"
+                }
+            ],
+            "clients" : [ 
+                {
+                    "clientId" : "5ee793eb-4ae6-11ee-ab61-0cc47ad8b645",
+                    "name" : "Ксения",
+                    "contacts" : [],
+                    "contactInfo" : ""
+                }
+            ],
+            "eventTitle" : "Событие-траффик АВ0000030811 от 04.09.2023 8:47:31"
+        }
+    ],
+    "testDrives" : [],
+    "usedCase" : false,
+    "tradeIn" : false,
+    "juridicalPerson" : false,
+    "sale" : {
+        "isDone" : true
+    }
+}
+]
